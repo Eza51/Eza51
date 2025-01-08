@@ -3,9 +3,9 @@
  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 - 🔭 I’m currently working on [ecommerce project](https://fancyhobbyist.com/)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/nowshinjerineza](www.linkedin.com/in/nowshinjerineza)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/nowshin-jerin-eza-408339344)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/nowshinjerineza](www.linkedin.com/in/nowshinjerineza)
+- 📝 I regularly write articles on [www.linkedin.com/in/nowshin-jerin-eza-408339344](www.linkedin.com/in/nowshin-jerin-eza-408339344)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
